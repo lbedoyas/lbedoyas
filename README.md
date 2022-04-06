@@ -1,6 +1,6 @@
 ### Que mas Pues !!! Hello Everybody!!! 👋
 
-- My name is Luis Bedoya. I am a geek🔭 of technology and programming. 
+- My name is Luis Bedoya. I am a geek🔭 of technology and programming and this is my code repository if you see something that can help you in your project go ahead. :)
 
 You can find me:
 - [linkedin](www.linkedin.com/in/luis-bedoya)
@@ -30,4 +30,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+My name is Luis Bedoya. I am a technology and programming geek and this is my code repository if you see something that can help you in your project go ahead. :)
 -->

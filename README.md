@@ -13,7 +13,7 @@ const Lucho_Bedoya = {
   Library: [Bootstrap, PrimeNg],
   preprocessor: ["SASS"],
   DB: [Microsoft SQL Server, Mongo DB],
-  learning: [Flutter, Express, Jest, Azure, AWS, Web 3.0]
+  learning: [Flutter, Express, Jest, Azure, AWS, Web 3.0, VueJs]
 }
 ```
 
